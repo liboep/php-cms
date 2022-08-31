@@ -1,0 +1,21 @@
+.remoutl{
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.sidpos{
+    position: absolute;
+    top: 1%;
+    right: -35%;
+}
+
+.mainpos{
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    margin-bottom: 40%;
+}
+
+.blogentries{
+    width: 80%;
+}
